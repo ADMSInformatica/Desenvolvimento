@@ -1,1 +1,18 @@
 Este é apenas um Arquivo de Testes, usado para prática sobre Versionamento usando GIT
+
+Lista de Comandos:
+
+	git init
+	git status
+	git add
+	git restore
+	git commit
+		-m
+	git log
+	git diff
+	git checkout
+	git log
+	git reset
+		--soft
+		--mixed
+		--hard
